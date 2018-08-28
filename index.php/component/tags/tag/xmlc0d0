@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lina - Lina</title>
+		<description><![CDATA[Lina Converted To Joomla By Windstripe Themes]]></description>
+		<link>http://lina.joomlastars.co.in/lina/index.php/component/tags/tag/5</link>
+		<lastBuildDate>Fri, 17 Aug 2018 11:42:29 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://lina.joomlastars.co.in/lina/index.php/component/tags/tag/xml?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How to be a successful freelancer</title>
+			<link>http://lina.joomlastars.co.in/lina/index.php/component/content/article?id=4:how-to-be-a-successful-freelancer-4&amp;Itemid=101</link>
+			<guid isPermaLink="true">http://lina.joomlastars.co.in/lina/index.php/component/content/article?id=4:how-to-be-a-successful-freelancer-4&amp;Itemid=101</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet Lorem ipsum dol sit amet Lorem ipsum dol or sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris</p>
+]]></description>
+			<category>How to be a successful freelancer</category>
+			<pubDate>Thu, 05 Apr 2018 20:23:37 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

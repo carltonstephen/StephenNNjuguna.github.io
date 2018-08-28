@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Lina - Lina</title>
+	<subtitle type="text">Lina Converted To Joomla By Windstripe Themes</subtitle>
+	<link rel="alternate" type="text/html" href="http://lina.joomlastars.co.in"/>
+	<id>http://lina.joomlastars.co.in/lina/index.php/component/tags/tag/javascript</id>
+	<updated>2018-08-17T11:42:27+00:00</updated>
+	<author>
+		<name>Lina</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://lina.joomlastars.co.in/lina/index.php/component/tags/tag/javascript?format=feed&amp;type=atom"/>
+	<entry>
+		<title>How to be a successful freelancer</title>
+		<link rel="alternate" type="text/html" href="http://lina.joomlastars.co.in/lina/index.php/component/content/article?id=4:how-to-be-a-successful-freelancer-4&amp;Itemid=101"/>
+		<published>2018-04-05T20:23:37+00:00</published>
+		<updated>2018-04-05T20:23:37+00:00</updated>
+		<id>http://lina.joomlastars.co.in/lina/index.php/component/content/article?id=4:how-to-be-a-successful-freelancer-4&amp;Itemid=101</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet Lorem ipsum dol sit amet Lorem ipsum dol or sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet Lorem ipsum dol sit amet Lorem ipsum dol or sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit massa vel mauris&lt;/p&gt;
+</content>
+		<category term="How to be a successful freelancer" />
+	</entry>
+</feed>
